@@ -1,0 +1,13 @@
+# General
+.DS_Store
+
+# dotenv environment variables file
+.env
+
+# Dependency directories
+node_modules/
+
+# vs code
+.vscode/
+
+reports/

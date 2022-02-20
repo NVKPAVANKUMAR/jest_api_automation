@@ -1,0 +1,25 @@
+{
+  "name": "api-test-project",
+  "version": "1.0.0",
+  "description": "API Test Automation with JavaScript",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "NVK PAVANKUMAR",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "jest": "^27.4.7",
+    "jest-html-reporters": "^3.0.5",
+    "supertest": "^6.1.6"
+  },
+  "dependencies": {
+    "casual": "^1.6.2",
+    "dotenv": "^10.0.0",
+    "faker": "^5.5.3"
+  }
+}
